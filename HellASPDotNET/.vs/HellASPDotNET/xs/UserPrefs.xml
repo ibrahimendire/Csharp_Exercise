@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{4BE6B04E-B8E9-4B5D-832F-7DEA29CA3C10}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HelloController.cs">
+    <Files>
+      <File FileName="Controllers/HelloController.cs" Line="45" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HellASPDotNET" expanded="True">
+            <Node name="HellASPDotNET" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HelloController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HellASPDotNET PreferredExecutionTarget="/Users/mymac/Desktop/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
